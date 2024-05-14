@@ -32,5 +32,3 @@ tongji.baidu.com
 tv.sohu.com
 ue.yeyoucdn.com
 wl.spotify.com
-adobe.io
-developer.adobe.com
