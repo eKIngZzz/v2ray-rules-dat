@@ -2,4 +2,3 @@ ifanr.com
 weibo.com
 www.baidu.com
 adobe.io
-developer.adobe.com
